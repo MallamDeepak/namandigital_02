@@ -1,7 +1,7 @@
 class AppConstants {
   // API Configuration
   static const String baseUrl = 'https://newsapi.org/v2/';
-  static const String apiKey = 'e5018aea1451452f95e15dda1c84c9c1'; // Replace with your actual API key
+  static const String apiKey = 'NEWS API KEY'; // Replace with your actual API key
   
   // Endpoints
   static const String topHeadlinesEndpoint = 'top-headlines';
